@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 
-PACKAGE_NAME = 'mirrow_test'
+PACKAGE_NAME = 'mirror_test'
 
 
 """
 Notes:
-MODULE_VERSION is read from mirrow_test/version.py.
+MODULE_VERSION is read from mirror_test/version.py.
 See (3) in following link to read about versions from a single source
 https://packaging.python.org/guides/single-sourcing-package-version/#single-sourcing-the-version
 """
